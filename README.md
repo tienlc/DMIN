@@ -1,0 +1,4 @@
+DMIN
+====
+
+Domino input
